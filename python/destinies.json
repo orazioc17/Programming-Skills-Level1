@@ -1,0 +1,42 @@
+{
+    "WINTER": [
+        {
+            "country": "Andorra",
+            "activities": "Skiing activities."
+        },
+        {
+            "country": "Switzerland",
+            "activities": "Tour of the Swiss Alps."
+        }
+    ],
+    "SPRING": [
+        {
+            "country": "France",
+            "activities": "Extreme sports activities."
+        },
+        {
+            "country": "Italy",
+            "activities": "Cultural and historical tour."
+        }
+    ],
+    "SUMMER": [
+        {
+            "country": "Spain",
+            "activities": "Hiking and extreme sports activities."
+        },
+        {
+            "country": "Portugal",
+            "activities": "Activities on the beaches."
+        }
+    ],
+    "AUTUMN": [
+        {
+            "country": "Belgium",
+            "activities": "Hiking and extreme sports activities."
+        },
+        {
+            "country": "Austria",
+            "activities": "cultural and historical activities."
+        }
+    ]
+}
